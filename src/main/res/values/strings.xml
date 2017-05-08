@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Movie News</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Sort movies list -->
+    <string name="pref_sort_movie_key">movies</string>
+    <string name="pref_sort_movie_label">Sort by</string>
+    <string name="pref_sort_movie_popular_title">Popular</string>
+    <string name="pref_sort_movie_top_rated_title">Top rated</string>
+    <string name="pref_sort_movie_popular_value">popular</string>
+    <string name="pref_sort_movie_top_rated_value">top_rated</string>
+    <string-array name="pref_sort_movies">
+        <item>@string/pref_sort_movie_popular_title</item>
+        <item>@string/pref_sort_movie_top_rated_title</item>
+    </string-array>
+
+    <string-array name="pref_sort_movies_values">
+        <item>@string/pref_sort_movie_popular_value</item>
+        <item>@string/pref_sort_movie_top_rated_value</item>
+    </string-array>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <!-- Title that modify -->
+    <string name="title">Title: %s</string>
+    <string name="overview">OverView: %s</string>
+    <string name="release_date">Release Date: %s</string>
+    <string name="original_title">Original Title: %s</string>
+    <string name="original_language">Language: %s</string>
+    <string name="popularity">Popularity: %s</string>
+    <string name="vote_count">Vote Count: %s</string>
+    <string name="vote_average">Vote: %s</string>
+
+    <!-- no internet -->
+    <string name="no_internet">Sorry no internet is available for getting data.</string>
+    <string name="no_internet_btn">Open Settings</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+</resources>

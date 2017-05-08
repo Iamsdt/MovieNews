@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- icon -->
+    <!-- //todo make app icon -->
+
+    <!-- image -->
+    <!-- //todo if image load failed show error image -->
+    <!-- //todo if image loading show loading image -->
+
+    <!-- progress bar -->
+    <!-- //todo show progress bar for first time only to save data-->
+
+    <!-- data update type -->
+    <!-- //todo second time data will be update in background -->
+    <!-- //todo after first time no internet will show downloaded data -->
+
+    <!-- layout -->
+    <!-- //todo make layout for all devices -->
+    <!-- //todo bigger skin load more grid -->
+    <!-- //todo details layout more efficient -->
+    <!-- //todo make no internet layout for first time only -->
+
+    <!-- //fab -->
+    <!-- //todo fab button click option-->
+    <!-- //todo fab animation-->
+    <!-- //todo fab main show hot movies (but actually show a random movies) -->
+    <!-- //todo details share about movies (not image) -->
+
+    <eat-comment />
+
+</resources>
